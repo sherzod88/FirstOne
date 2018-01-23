@@ -24,3 +24,4 @@ PRIMARY KEY (ID))"""
 cursor.execute(sql_create_table)
 
 db.close()
+print()
